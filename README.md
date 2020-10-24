@@ -8,24 +8,26 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  **I develop mobile applications with React Native, Java to Android, Xamarin and Firebase, and web applications with React. I also develop applications with C # .Net, Java, MySql and PostgreSQL. I'm currently working remote at Whopaloo** 
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=LuisFelipePereiraDaSilva">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipePereiraDaSilva&layout=compact&hide=ruby)](https://github.com/LuisFelipePereiraDaSilva/)
 
 ## Knowledge
 
 **Main Languages**
 <br/>
+[![C#](https://img.shields.io/badge/C%23-.Net-blueviolet)](https://github.com/LuisFelipePereiraDaSilva/)
+[![Java Android](https://img.shields.io/badge/Java-Android-green)](https://github.com/LuisFelipePereiraDaSilva/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ildaneta/)](https://github.com/LuisFelipePereiraDaSilva/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/ildaneta/)](https://github.com/LuisFelipePereiraDaSilva/)
 
-**Mobile / Front-end**
+
+**Mobile**
 <br/>
+[![Java Android](https://img.shields.io/badge/Java-Android-green)](https://github.com/LuisFelipePereiraDaSilva/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/guiima/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/guiima/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ildaneta/)](https://github.com/guiima/)
+[![Xamarin](https://img.shields.io/badge/%20-Xamarin-9cf)](https://github.com/LuisFelipePereiraDaSilva/)
 
 **Others Technologies**
 <br/>
