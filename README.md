@@ -8,16 +8,16 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  **I develop mobile applications with React Native, Java to Android, Xamarin and Firebase, and web applications with React. I also develop applications with C # .Net, Java, MySql and PostgreSQL. I'm currently working remote at Whopaloo** 
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=guiima">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=LuisFelipePereiraDaSilva">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiima&layout=compact&hide=ruby)](https://github.com/guiima/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipePereiraDaSilva&layout=compact&hide=ruby)](https://github.com/LuisFelipePereiraDaSilva/)
 
 ## Knowledge
 
 **Main Languages**
 <br/>
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ildaneta/)](https://github.com/guiima/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/ildaneta/)](https://github.com/guiima/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ildaneta/)](https://github.com/LuisFelipePereiraDaSilva/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/ildaneta/)](https://github.com/LuisFelipePereiraDaSilva/)
 
 **Mobile / Front-end**
 <br/>
