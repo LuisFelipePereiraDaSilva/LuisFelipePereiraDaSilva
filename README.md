@@ -9,6 +9,9 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  **I develop mobile applications with React Native, Java to Android, Xamarin and Firebase, and web applications with React. I also develop applications with C # .Net, Java, MySql and PostgreSQL. I'm currently working remote at Whopaloo** 
 
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=LuisFelipePereiraDaSilva">
+
+
 ## Knowledge
 
 **Main Languages**
